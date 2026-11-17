@@ -1,0 +1,4 @@
+delay_class,late_orders,pct_of_late_orders,avg_delay_days,avg_review,bad_review_pct,revenue_brl
+logistics_only,5061,77.66,10.9,2.28,61.99,712119.41
+seller_only,821,12.60,6.6,2.46,57.86,161323.58
+both,635,9.74,13.5,1.94,71.47,109957.10

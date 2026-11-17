@@ -1,0 +1,7 @@
+segment,orders,revenue_brl,revenue_inr_scale,pct_of_total_revenue
+1 all delivered orders,96203,13179777.95,213947335,100.00
+2 late orders,6531,985618.47,15999545,7.48
+3 bad-review orders (<=2 stars),12228,1957040.09,31768632,14.85
+4 late AND bad,3981,618806.44,10045085,4.70
+"5 late, not bad",2550,366812.03,5954460,2.78
+"6 bad, not late",8247,1338233.65,21723547,10.15
