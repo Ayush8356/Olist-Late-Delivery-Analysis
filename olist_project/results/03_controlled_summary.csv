@@ -1,5 +1,0 @@
-control,n_strata,late_orders_covered,bad_gap_pp,avg_score_gap
-none (raw),1,6378,53.17,-2.02
-customer_state,22,6357,52.85,-2.00
-category (single-category orders),33,6132,53.27,-2.02
-seller (single-seller orders),53,2496,54.41,-2.04

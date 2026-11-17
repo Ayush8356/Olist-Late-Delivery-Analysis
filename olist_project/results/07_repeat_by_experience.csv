@@ -1,8 +1,0 @@
-grp,customers,repeaters,repeat_pct_180d,ci95_low_pct,ci95_high_pct
-all cohort,52341,960,1.83,1.72,1.95
-delivery: late,2671,36,1.35,0.98,1.86
-delivery: on time,49670,924,1.86,1.75,1.98
-review: 1-2 stars,6250,93,1.49,1.22,1.82
-review: 3 stars,4482,81,1.81,1.46,2.24
-review: 4-5 stars,41225,781,1.89,1.77,2.03
-review: no review,384,5,1.30,0.56,3.01
